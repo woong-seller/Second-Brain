@@ -150,6 +150,26 @@
               "icon": "lucide-list",
               "title": "수정햇어요 의 개요"
             }
+          },
+          {
+            "id": "8beb00865dce5b9f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d7a1105c68479ad9",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ]
       }
@@ -165,7 +185,11 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "kr-book-info-plugin:Add Book Info": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "800fce32a82b8d57",

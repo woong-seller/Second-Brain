@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독서노트/무조건 팔리는 심리 마케팅 기술 100 단번에 매출을 200 올리는 설득의 심리학.md",
+                "file": "Inbox/문득 든 생각.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무조건 팔리는 심리 마케팅 기술 100 단번에 매출을 200 올리는 설득의 심리학"
+              "title": "문득 든 생각"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d2c8fd9d302bb9f4",
@@ -181,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -196,6 +196,8 @@
   },
   "active": "800fce32a82b8d57",
   "lastOpenFiles": [
+    "독서노트/무조건 팔리는 심리 마케팅 기술 100 단번에 매출을 200 올리는 설득의 심리학.md",
+    "Inbox/문득 든 생각.md",
     "독서노트/골드플레이션 50년 만에 다시 돌아온 금과 은의 거대 상승장.md",
     "일기/2025-08-19.md",
     "주얼리 관리 프로그램/주얼리 관리 프로그램.md",
@@ -222,8 +224,6 @@
     "일기/2025-07-01.md",
     "일기/2025-06-07.md",
     "일기/2025-06-06.md",
-    "일기/2025-06-04.md",
-    "일기/2025-06-05.md",
     "일기",
     "독서노트",
     "주얼리 관리 프로그램"

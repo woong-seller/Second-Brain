@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "다정한 사람이 이긴다 사람을 남기는 말 관계를 바꾸는 태도"
             }
-          },
-          {
-            "id": "28ec92be67ca4d98",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.9.14"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,14 +220,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28ec92be67ca4d98",
+  "active": "978377a35514c511",
   "lastOpenFiles": [
+    "독서노트/다정한 사람이 이긴다 사람을 남기는 말 관계를 바꾸는 태도.md",
     "독서노트/고전이 답했다 마땅히 가져야 할 부에 대하여.md",
     "독서노트/사장학개론.md",
     "Inbox/문득 든 생각.md",
     "독서노트/부자의 언어 어떻게 살아야 부자가 되는지 묻는 아들에게.md",
     "일기/2025-08-29.md",
-    "독서노트/다정한 사람이 이긴다 사람을 남기는 말 관계를 바꾸는 태도.md",
     "나의 서재.md",
     "Inbox/예주 귀금속 강의.md",
     "2025-08-29.md",

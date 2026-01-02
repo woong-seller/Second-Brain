@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "프롬프트 텔링 격차를 만드는 AI 소통 능력"
             }
+          },
+          {
+            "id": "39ef6e165559e931",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,7 +231,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "978377a35514c511",
+  "active": "39ef6e165559e931",
   "lastOpenFiles": [
     "독서노트/부자들의 서재 전 세계 상위 1% 부자들의 인사이트 30.md",
     "독서노트/부자의 언어 어떻게 살아야 부자가 되는지 묻는 아들에게.md",

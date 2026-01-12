@@ -35,7 +35,8 @@
               "title": "프롬프트 텔링 격차를 만드는 AI 소통 능력"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d2c8fd9d302bb9f4",
@@ -218,10 +220,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "800fce32a82b8d57",
+  "active": "978377a35514c511",
   "lastOpenFiles": [
-    "주얼리 관련 자료/실버바 공구.md",
     "주얼리 관련 자료/인스타 & 밴드 자동 올리기.md",
+    "주얼리 관련 자료/실버바 공구.md",
     "독서노트/부자의 언어 어떻게 살아야 부자가 되는지 묻는 아들에게.md",
     "독서노트/프롬프트 텔링 격차를 만드는 AI 소통 능력.md",
     "일기/2026-01-04.md",

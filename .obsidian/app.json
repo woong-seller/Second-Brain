@@ -3,5 +3,6 @@
   "showLineNumber": true,
   "spellcheck": false,
   "trashOption": "local",
-  "newFileLocation": "root"
+  "newFileLocation": "root",
+  "promptDelete": false
 }

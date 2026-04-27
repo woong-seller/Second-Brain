@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "밤과 나침반 목표는 크게 실행은 작게"
             }
+          },
+          {
+            "id": "f4306225f69b303c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "978377a35514c511",
+  "active": "f4306225f69b303c",
   "lastOpenFiles": [
     "독서노트/부자들의 서재 전 세계 상위 1% 부자들의 인사이트 30.md",
     "독서노트/밤과 나침반 목표는 크게 실행은 작게.md",

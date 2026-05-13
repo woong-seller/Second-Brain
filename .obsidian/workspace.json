@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d2c8fd9d302bb9f4",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "수정햇어요.md",
+                "file": "독서노트/밤과 나침반 목표는 크게 실행은 작게.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "수정햇어요 의 백링크"
+              "title": "밤과 나침반 목표는 크게 실행은 작게 의 백링크"
             }
           },
           {

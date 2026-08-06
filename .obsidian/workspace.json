@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "주얼리 재고 관리 프로그램"
             }
+          },
+          {
+            "id": "1f88b3efd25d89d2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.13.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "978377a35514c511",
+  "active": "1f88b3efd25d89d2",
   "lastOpenFiles": [
     "주얼리 관련 자료/사업일지/릴스 기획/고정값.md",
     "주얼리 관련 자료/사업일지/릴스 기획/릴스 기획.md",

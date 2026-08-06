@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "주얼리 관련 자료/사업일지/주얼리 재고 관리 프로그램.md",
+                "file": "일기/2026-08-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "주얼리 재고 관리 프로그램"
-            }
-          },
-          {
-            "id": "1f88b3efd25d89d2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.13.4"
+              "title": "2026-08-06"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -218,8 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f88b3efd25d89d2",
+  "active": "978377a35514c511",
   "lastOpenFiles": [
+    "일기/2025-05-28.md",
+    "일기/2026-08-06.md",
+    "주얼리 관련 자료/사업일지/주얼리 재고 관리 프로그램.md",
     "주얼리 관련 자료/사업일지/릴스 기획/고정값.md",
     "주얼리 관련 자료/사업일지/릴스 기획/릴스 기획.md",
     "주얼리 관련 자료/사업일지/인스타 & 밴드 자동 올리기.md",
@@ -228,7 +220,6 @@
     "주얼리 관련 자료/사업일지/금,은 전망.md",
     "주얼리 관련 자료/사업일지/경제 공부.md",
     "주얼리 관련 자료/사업일지/실버바 공구.md",
-    "주얼리 관련 자료/사업일지/주얼리 재고 관리 프로그램.md",
     "주얼리 관련 자료/사업일지/AI.md",
     "독서노트/밤과 나침반 목표는 크게 실행은 작게.md",
     "독서노트/부자의 언어 어떻게 살아야 부자가 되는지 묻는 아들에게.md",
@@ -245,8 +236,6 @@
     "주얼리 관련 자료/세무/세무 지식.md",
     "주얼리 관련 자료/세무",
     "주얼리 관련 자료/상표법 관련 지식/디자인 보호법.md",
-    "주얼리 관련 자료/상표법 관련 지식/상표법.md",
-    "주얼리 관련 자료/상표법 관련 지식/부정경쟁방지법.md",
     "주얼리 관련 자료/상표법 관련 지식",
     "주얼리 관련 자료/사업일지/릴스 기획",
     "주얼리 관련 자료/사업일지",
